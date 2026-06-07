@@ -76,7 +76,7 @@ The United States dominates hiring activity, followed by countries such as the U
 
 ### Tableau Dashboard
 
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
