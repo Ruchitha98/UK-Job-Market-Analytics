@@ -98,6 +98,6 @@ The United States dominates hiring activity, followed by countries such as the U
 
 ## Author
 
-Ruchitha Sampath
+Ruchitha Sampath Weerasekara
 
 MSc Data Science | Software Engineer | AI & Machine Learning Enthusiast
